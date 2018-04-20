@@ -1,3 +1,6 @@
+# categorical rules
+Species %in% c("setosa", "versicolor", "virginica")
+
 # numerical rules
 Sepal.Length > 0
 Sepal.Width > 0
